@@ -1,0 +1,3 @@
+model_checkpoint_path: "model.ckpt"
+all_model_checkpoint_paths: "/home/robotgroup/deep_learning/tensorflow/trump_classify\\model.ckpt"
+all_model_checkpoint_paths: "model.ckpt"
